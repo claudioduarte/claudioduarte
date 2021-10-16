@@ -24,6 +24,7 @@
 🖱 Masters in Multimedia Communication (2017) - [University of Aveiro](https://www.ua.pt/)
 
 ## 👔 Work Experience
+[2021 - Present] Junior Full Stack Engineer @ Indie Campers<br>
 [2017 - 2021] Junior Full Stack Developer @ Inspiring Future
 
 ## 🥳 Fun Facts
