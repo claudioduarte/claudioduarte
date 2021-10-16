@@ -23,6 +23,9 @@
 🖱 Bachelor's degree in New Communication Technologies (2015) - [University of Aveiro](https://www.ua.pt/)<br>
 🖱 Masters in Multimedia Communication (2017) - [University of Aveiro](https://www.ua.pt/)
 
+## 👔 Work Experience
+[2017 - 2021] Junior Full Stack Developer @ Inspiring Future
+
 ## 🥳 Fun Facts
 Whenever I have a chance, I participate in conferences, events, workshops or lectures related to my professional area. I also have some interest in other areas of expertise as well. I also volunteer at times in various activities and events.
 
