@@ -19,6 +19,12 @@
 ↗️ **[Vértices](https://vertices.pt/)**<br>
 ↗️ **[XX Simpósio de Botânica Criptogâmica](https://criptogamia.up.pt/)**<br>
 
+
+## 🤝 Contributions
+↗️ **[iFeed](https://ifeed.pt)**<br>
+↗️ **[Updated](https://updated.pt/)**<br>
+↗️ **[Lovin Lisboa](http://lovinlisboa.com/)**<br>
+
 ## 🎓 Education
 🖱 Bachelor's degree in New Communication Technologies (2015) - [University of Aveiro](https://www.ua.pt/)<br>
 🖱 Masters in Multimedia Communication (2017) - [University of Aveiro](https://www.ua.pt/)
