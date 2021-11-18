@@ -47,5 +47,5 @@ Whenever I have a chance, I participate in conferences, events, workshops or lec
 I'm always open to chat about new opportunities, or anything else, so feel free to reach out! Drop me an e-mail **[here](mailto:hello@claudioduarte.pt)**
 
 ## 💎 Stats
-![Cláudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioduarte&show_icons=true)
+![Cláudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioduarte&show_icons=true&count_private=true))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
