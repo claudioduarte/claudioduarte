@@ -18,6 +18,7 @@
 ↗️ **[Clínica VOMAP](https://clinicavomap.pt/)**<br>
 ↗️ **[Vértices](https://vertices.pt/)**<br>
 ↗️ **[XX Simpósio de Botânica Criptogâmica](https://criptogamia.up.pt/)**<br>
+↗️ **[Somos NTC](https://somosntc.wordpress.com/)**<br>
 
 
 ## 🤝 Contributions
