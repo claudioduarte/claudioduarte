@@ -1,13 +1,17 @@
 # Hi, I'm Cláudio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😄
-### 💻 I'm a Junior Full-Stack Engineer at Indie Campers / Freelancer in my free time
+### 💻 I'm a Junior Full-Stack Engineer at Indie Campers & Freelancer
 
 ## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white&style=for-the-badge)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=for-the-badge)
 
 ## 💻 Projects
 ↗️ **[Gabinete de Apoio ao Emprego](https://gae.adavcoimbra.pt/)**<br>
@@ -35,7 +39,7 @@
 [2017 - 2021] Junior Full Stack Developer @ Inspiring Future
 
 ## 🥳 Fun Facts
-Whenever I have a chance, I participate in conferences, events, workshops or lectures related to my professional area. I also have some interest in other areas of expertise as well. I also volunteer at times in various activities and events.
+Whenever I have a chance, I participate in conferences, events, workshops or lectures related to my professional area. I also have some interest in other areas of expertise as well. I also volunteer at times in various activities and events. Also, I've studied Drama and did Webradio :)
 
 ## 💬 Socials
 <a href="https://www.linkedin.com/in/claudiocostaduarte/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
