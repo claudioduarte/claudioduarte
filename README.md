@@ -16,7 +16,7 @@
 ## 💻 Projects
 ↗️ **[Gabinete de Apoio ao Emprego](https://gae.adavcoimbra.pt/)**<br>
 ↗️ **[SGA 2.0 - o todo académico](https://senhas.claudioduarte.pt)**<br>
-↗️ **[Ciclo de Concertos de Coimbra](https://cicloconcertoscoimbra.pt/)**<br>
+↗️ **[Ciclo de Concertos de Coimbra](https://cicloconcertoscoimbra.com/)**<br>
 ↗️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
 ↗️ **[A Bolachinha](https://bolachinha.adavcoimbra.pt/)**<br>
 ↗️ **[Clínica VOMAP](https://clinicavomap.pt/)**<br>
