@@ -54,3 +54,5 @@ I'm always open to chat about new opportunities, or anything else, so feel free 
 ## 💎 Stats
 ![Cláudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudioduarte&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=claudioduarte)
