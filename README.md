@@ -43,9 +43,9 @@ Whenever I have a chance, I participate in conferences, events, workshops or lec
 
 ## 💬 Socials
 <a href="https://www.linkedin.com/in/claudiocostaduarte/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/claudiocostaduarte/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"></a>
+<a href="https://twitter.com/claudiofcduarte"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge"></a>
 <a href="https://claudiocostaduarte.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/dudewoah/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-![](https://dcbadge.vercel.app/api/shield/877575067985391717)
 <a href="https://www.behance.net/claudioduarte"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
 
 ## 📫 Drop a message!
