@@ -1,4 +1,4 @@
-# Hi, I'm Cláudio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😄
+# Hi, I'm Cláudio 👋😄
 ### 💻 I'm a Junior Full-Stack Engineer at Indie Campers & Freelancer
 
 ## 🛠 Tech Stack
@@ -14,29 +14,29 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=for-the-badge)
 
 ## 💻 Projects
-↗️ **[Gabinete de Apoio ao Emprego](https://gae.adavcoimbra.pt/)**<br>
-↗️ **[SGA 2.0 - o todo académico](https://senhas.claudioduarte.pt)**<br>
-↗️ **[Ciclo de Concertos de Coimbra](https://cicloconcertoscoimbra.com/)**<br>
-↗️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
-↗️ **[A Bolachinha](https://bolachinha.adavcoimbra.pt/)**<br>
-↗️ **[Clínica VOMAP](https://clinicavomap.pt/)**<br>
-↗️ **[Vértices](https://vertices.pt/)**<br>
-↗️ **[XX Simpósio de Botânica Criptogâmica](https://criptogamia.up.pt/)**<br>
-↗️ **[Somos NTC](https://somosntc.wordpress.com/)**<br>
+📌 **[Gabinete de Apoio ao Emprego](https://gae.adavcoimbra.pt/)**<br>
+📌 **[SGA 2.0 - o todo académico](https://senhas.claudioduarte.pt)**<br>
+📌 **[Ciclo de Concertos de Coimbra](https://cicloconcertoscoimbra.com/)**<br>
+📌 **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
+📌 **[A Bolachinha](https://bolachinha.adavcoimbra.pt/)**<br>
+📌 **[Clínica VOMAP](https://clinicavomap.pt/)**<br>
+📌 **[Vértices](https://vertices.pt/)**<br>
+📌 **[XX Simpósio de Botânica Criptogâmica](https://criptogamia.up.pt/)**<br>
+📌 **[Somos NTC](https://somosntc.wordpress.com/)**<br>
 
 
 ## 🤝 Contributions
-↗️ **[iFeed](https://ifeed.pt)**<br>
-↗️ **[Updated](https://updated.pt/)**<br>
-↗️ **[Lovin Lisboa](http://lovinlisboa.com/)**<br>
+📌 **[iFeed](https://ifeed.pt)**<br>
+📌 **[Updated](https://updated.pt/)**<br>
+📌 **[Lovin Lisboa](https://lovinlisboa.com/)**<br>
 
 ## 🎓 Education
-🖱 Masters in Multimedia Communication (2017) - [University of Aveiro](https://www.ua.pt/)<br>
-🖱 Bachelor's degree in New Communication Technologies (2015) - [University of Aveiro](https://www.ua.pt/)
+🎓 Masters in Multimedia Communication (2017) - [University of Aveiro](https://www.ua.pt/)<br>
+🎓 Bachelor's degree in New Communication Technologies (2015) - [University of Aveiro](https://www.ua.pt/)
 
 ## 👔 Work Experience
-[2021 - Present] Junior Full Stack Engineer @ Indie Campers<br>
-[2017 - 2021] Junior Full Stack Developer @ Inspiring Future
+📌 2021 - Present | Junior Full Stack Engineer - [Indie Campers](https://indiecampers.com/)<br>
+📌 2017 - 2021 |  Junior Full Stack Developer - [Inspiring Future](https://inspiring.future.pt/)
 
 ## 🥳 Fun Facts
 Whenever I have a chance, I participate in conferences, events, workshops or lectures related to my professional area. I also have some interest in other areas of expertise as well. I also volunteer at times in various activities and events. Also, I've studied Drama and did Webradio :)
