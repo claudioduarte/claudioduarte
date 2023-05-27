@@ -54,7 +54,7 @@
 
 ## 🤝 Contributions
 ➡️ **[iFeed](https://ifeed.pt)**<br>
-➡️ **[Updated](https://updated.pt/)**<br>
+➡️ **Updated**<br>
 ➡️ **[DroidReader](https://droidreader.pt/)**<br>
 ➡️ **[Lovin Lisboa](https://lovinlisboa.com/)**<br>
 ➡️ **[Inspiring Future](https://inspiring.future.pt/)**<br>
