@@ -52,6 +52,12 @@
 ➡️ **[Entrar no Ensino Superior Like a Boss 2019 | Unlimited Future](https://www.facebook.com/100061182864888/videos/984863941846289)**<br>
 ➡️ **[Ensino Superior LIVE 2020 | Unlimited Future](https://www.youtube.com/watch?v=Tp0g-Jm__fY)**<br>
 
+## 📒 Publications
+
+➡️ **[Guia de Acesso ao Ensino Superior 2018-2019](https://issuu.com/inspiringfuture/docs/guia-acesso-2018-2019)**<br>
+➡️ **[Guia de Acesso ao Ensino Superior 2019-2020](https://issuu.com/inspiringfuture/docs/guia_acesso_2019_final_)**<br>
+➡️ **[Guia de Acesso ao Ensino Superior 2020-2021](https://issuu.com/inspiringfuture/docs/guia-acesso-2021)**<br>
+
 ## 🤝 Contributions
 ➡️ **[iFeed](https://ifeed.pt)**<br>
 ➡️ **Updated**<br>
