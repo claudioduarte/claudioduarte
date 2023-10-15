@@ -74,7 +74,7 @@
 
 ## 👔 Work Experience
 ➡️ Software Developer - [Lisbon Nearshore](https://lisbonnearshore.com/) | October 2023 - Present<br>
-➡️ Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | July 2022 - October 2023<br>
+➡️ Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | July 2022 - September 2023<br>
 ➡️ Junior Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | October 2021 - July 2022<br>
 ➡️ Junior Full Stack Developer - [Inspiring Future](https://inspiring.future.pt/) | July 2017 - September 2021
 
