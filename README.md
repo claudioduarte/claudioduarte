@@ -1,5 +1,5 @@
 # Hi, I'm Cláudio 👋😄
-### I'm a Full Stack Engineer @ Indie Campers &nbsp; 🚐
+### I'm a Software Developer @ Lisbon Nearshore &nbsp; 💻
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
@@ -73,7 +73,8 @@
 ➡️ New Communication Technologies (Bachelors) (2015) - [University of Aveiro](https://www.ua.pt/)
 
 ## 👔 Work Experience
-➡️ Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | July 2022 - Present<br>
+➡️ Software Developer - [Lisbon Nearshore](https://lisbonnearshore.com/) | October 2023 - Present<br>
+➡️ Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | July 2022 - October 2023<br>
 ➡️ Junior Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | October 2021 - July 2022<br>
 ➡️ Junior Full Stack Developer - [Inspiring Future](https://inspiring.future.pt/) | July 2017 - September 2021
 
