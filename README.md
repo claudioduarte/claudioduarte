@@ -83,6 +83,7 @@
 💬 Whenever possible, I enjoy participate conferences, events, workshops or lectures related with my professional field<br>
 🥇 I ocasionally [do volunteer work](https://www.linkedin.com/in/claudiocostaduarte/details/volunteering-experiences/) at events like Web Summit (since 2019 🤩) or Eurovision Song Contest Lisbon in 2018 🎤<br>
 🎭 I used to study Drama in the USA<br>
+🍎 I created a [subreddit](https://www.reddit.com/r/ApplePayPortugal/) for the Apple Pay community in Portugal<br>
 🎙️ Coordinated a webradio ([DeCAWebEx](https://www.mixcloud.com/decawebex/)) while taking my Master's at the University of Aveiro<br>
 📺 I've been on TV a couple of times!<br>
 
