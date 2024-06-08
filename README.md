@@ -80,7 +80,7 @@
 ➡️ Junior Full Stack Developer - [Inspiring Future](https://inspiring.future.pt/) | July 2017 - September 2021
 
 ## ⭐ Fun Facts
-💬 Whenever possible, I enjoy participate conferences, events, workshops or lectures related with my professional field<br>
+💬 Whenever possible, I enjoy participating in conferences, events, workshops or lectures related with my professional field<br>
 🥇 I ocasionally [do volunteer work](https://www.linkedin.com/in/claudiocostaduarte/details/volunteering-experiences/) at events like Web Summit (since 2019 🤩) or Eurovision Song Contest Lisbon in 2018 🎤<br>
 🎭 I used to study Drama in the USA<br>
 🍎 I created a [subreddit](https://www.reddit.com/r/ApplePayPortugal/) for the Apple Pay community in Portugal<br>
