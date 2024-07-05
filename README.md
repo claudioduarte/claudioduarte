@@ -75,8 +75,7 @@
 
 ## 👔 Work Experience
 ➡️ Senior Software Developer - [Lisbon Nearshore](https://lisbonnearshore.com/) for [Advarra](https://www.advarra.com/) | October 2023 - present<br>
-➡️ Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | July 2022 - September 2023<br>
-➡️ Junior Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | October 2021 - July 2022<br>
+➡️ Full Stack Engineer - [Indie Campers](https://indiecampers.com/) | October 2021 - September 2023<br>
 ➡️ Junior Full Stack Developer - [Inspiring Future](https://inspiring.future.pt/) | July 2017 - September 2021
 
 ## ⭐ Fun Facts
