@@ -67,7 +67,7 @@
 ➡️ **[Indie Campers](https://indiecampers.com/)**<br>
 
 ## 🏅 Professional Certifications
-<a href="https://www.credly.com/badges/f2b8aca8-f56a-4a16-ba44-b1fe0a251099" target="_blank"><img src="https://github.com/user-attachments/assets/40be9ea6-c023-4c78-8d6b-6e410aee5037" alt="PSD I" width="180"/></a>
+<a href="https://www.credly.com/badges/f2b8aca8-f56a-4a16-ba44-b1fe0a251099" target="_blank"><img src="https://github.com/user-attachments/assets/31d751b9-7752-413c-b140-2ee392c2cdc2" alt="PSD I" width="160"/></a>
 
 ## 💎 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
