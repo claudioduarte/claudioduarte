@@ -14,17 +14,17 @@
 ## 💻 Projects
 ➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
 ➡️ **[SGA 2.0 - o todo académico](https://senhas.claudioduarte.pt)**<br>
-➡️ **[Ciclo de Concertos de Coimbra](https://cicloconcertoscoimbra.com/)**<br>
+➡️ **[Ciclo de Concertos de Coimbra](https://arquivo.pt/wayback/20220520012137/https://www.cicloconcertoscoimbra.com/)** (Archived by Arquivo.pt)<br>
 ➡️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
 ➡️ **[A Bolachinha](https://bolachinha.adavcoimbra.pt/)**<br>
-➡️ **[Clínica VOMAP](https://clinicavomap.pt/)**<br>
-➡️ **[Vértices](https://vertices.pt/)**<br>
-➡️ **[XX Simpósio de Botânica Criptogâmica](https://criptogamia.up.pt/)**<br>
-➡️ **[Somos NTC](https://somosntc.wordpress.com/)**<br>
+➡️ **[Clínica VOMAP](https://arquivo.pt/wayback/20220413222324/https://clinicavomap.pt/)** (Archived by Arquivo.pt)<br>
+➡️ **[Vértices](https://arquivo.pt/wayback/20230123003558/https://vertices.pt/)** (Archived by Arquivo.pt)<br>
+➡️ **[XX Simpósio de Botânica Criptogâmica](https://arquivo.pt/wayback/20210925131410/https://criptogamia.up.pt/)** (Archived by Arquivo.pt)<br>
+➡️ **[Somos NTC](https://arquivo.pt/wayback/20211107041349/https://somosntc.wordpress.com/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Deploy Your Future](https://deploy.future.pt/)**<br>
 ➡️ **[Inspiring Career Camp](https://careercamp.pt/)**<br>
-➡️ **Unlimited Vision**<br>
-➡️ **Portugal, Pois!**
+➡️ **[Unlimited Vision](https://arquivo.pt/wayback/20200310215915/https://www.unlimitedvision.pt/)** (Archived by Arquivo.pt)<br>
+➡️ **[Portugal, Pois!](https://arquivo.pt/wayback/20200310215915/https://www.portugalpois.pt/)** (Archived by Arquivo.pt)
 
 ## 🎪 Virtual Fairs
 ➡️ **Feira Virtual 2020 & 2021 | Inspiring Future**<br>
