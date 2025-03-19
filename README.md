@@ -1,5 +1,6 @@
 # Hi, I'm Cláudio 👋😄
 ### Senior Software Developer @ [Lisbon Nearshore](https://lisbonnearshore.com/)
+#### Previously worked at [Associação FUTURE](https://inspiring.future.pt/) 👨‍🏫 and [Indie Campers](https://indiecampers.com/) 🚐
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
