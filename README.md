@@ -17,7 +17,7 @@
 ➡️ **[SGA 2.0 - o todo académico](https://senhas.claudioduarte.pt)**<br>
 ➡️ **[Ciclo de Concertos de Coimbra](https://arquivo.pt/wayback/20220520012137/https://www.cicloconcertoscoimbra.com/)** (Archived by Arquivo.pt)<br>
 ➡️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
-➡️ **[A Bolachinha](https://bolachinha.adavcoimbra.pt/)**<br>
+➡️ **[A Bolachinha]([https://web.archive.org/web/20240613235946/https://bolachinha.adavcoimbra.pt/])** (Archived by Wayback Machine)<br>
 ➡️ **[Clínica VOMAP](https://arquivo.pt/wayback/20220413222324/https://clinicavomap.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Vértices](https://arquivo.pt/wayback/20230123003558/https://vertices.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[XX Simpósio de Botânica Criptogâmica](https://arquivo.pt/wayback/20210925131410/https://criptogamia.up.pt/)** (Archived by Arquivo.pt)<br>
