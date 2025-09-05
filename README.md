@@ -1,5 +1,5 @@
 # Hi, I'm Cláudio 👋😄
-### Senior Software Developer & Team Lead @ [Lisbon Nearshore](https://lisbonnearshore.com/)
+### Senior Software Developer & Team Lead @ [Advarra](https://www.advarra.com/)
 #### Previously worked at [Associação FUTURE](https://inspiring.future.pt/) 👨‍🏫 and [Indie Campers](https://indiecampers.com/) 🚐
 
 ## 🛠 Tech Stack
@@ -21,36 +21,6 @@
 ➡️ **[Inspiring Career Camp](https://careercamp.pt/)**<br>
 ➡️ **[Unlimited Vision](https://arquivo.pt/wayback/20200310215915/https://www.unlimitedvision.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Portugal, Pois!](https://arquivo.pt/wayback/20200310215915/https://www.portugalpois.pt/)** (Archived by Arquivo.pt)
-
-## 🎪 Virtual Fairs
-➡️ **Feira Virtual 2020 & 2021 | Inspiring Future**<br>
-➡️ **Feira de Emprego 2021 | Unlimited Future**<br>
-➡️ **Feira Virtual de Mestrados e Pós-Graduações | Unlimited Future**<br>
-➡️ **UPA Digital | Universidade do Minho**<br>
-➡️ **Feira Vocacional e Profissional | Município de Aveiro**<br>
-➡️ **(In)Forma '21 | Município de Sines**<br>
-➡️ **Profissionaliza-te | Município de Loures**<br>
-➡️ **Open Day 2021 | Universidade Lusíada**<br>
-➡️ **ISEG Career Forum 2021 | ISEG**<br>
-➡️ **Feira Online do Talento | JobArtis**<br>
-➡️ **Feira Virtual | Universidade do Algarve**<br>
-
-## 📹 Live Streams
-➡️ **[Candidatura LIVE 2017 | Inspiring Future](https://www.facebook.com/inspiringfuture/videos/1802425289979853/)**<br>
-➡️ **[Candidatura LIVE 2018 | Inspiring Future](https://www.facebook.com/inspiringfuture/videos/1974542736101440)**<br>
-➡️ **[Candidatura LIVE 2019 | Inspiring Future](https://www.facebook.com/inspiringfuture/videos/719829735116235/)**<br>
-➡️ **[Candidatura LIVE 2020 | Inspiring Future](https://www.youtube.com/watch?v=3FpvtaPLpg0)**<br>
-➡️ **Candidatura LIVE 2021 | Inspiring Future**<br>
-➡️ **[Como não falecer a meio do 1º semestre | Unlimited Future](https://www.facebook.com/ufuture/videos/691659144370845/)**<br>
-➡️ **[Entrar no Ensino Superior Like a Boss 2017 | Unlimited Future](https://www.facebook.com/inspiringfuture/videos/1822603641295351/)**<br>
-➡️ **[Entrar no Ensino Superior Like a Boss 2018 | Unlimited Future](https://www.facebook.com/inspiringfuture/videos/1914109268891191/)**<br>
-➡️ **[Entrar no Ensino Superior Like a Boss 2019 | Unlimited Future](https://www.facebook.com/100061182864888/videos/984863941846289)**<br>
-➡️ **[Ensino Superior LIVE 2020 | Unlimited Future](https://www.youtube.com/watch?v=Tp0g-Jm__fY)**<br>
-
-## 📒 Publications
-➡️ **[Guia de Acesso ao Ensino Superior 2018-2019](https://issuu.com/inspiringfuture/docs/guia-acesso-2018-2019)**<br>
-➡️ **[Guia de Acesso ao Ensino Superior 2019-2020](https://issuu.com/inspiringfuture/docs/guia_acesso_2019_final_)**<br>
-➡️ **[Guia de Acesso ao Ensino Superior 2020-2021](https://issuu.com/inspiringfuture/docs/guia-acesso-2021)**<br>
 
 ## 🤝 Contributions
 ➡️ **[iFeed](https://ifeed.pt)**<br>
