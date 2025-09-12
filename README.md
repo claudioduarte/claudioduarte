@@ -4,8 +4,13 @@
 
 ## 🛠 Tech Stack
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 
 ## 💻 Projects
 ➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
