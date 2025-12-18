@@ -36,10 +36,10 @@
 ➡️ **[iFeed](https://ifeed.pt)**<br>
 ➡️ **Updated**<br>
 ➡️ **[DroidReader](https://droidreader.pt/)**<br>
-➡️ **Lovin Lisboa**<br>
+➡️ **[Lovin Lisboa](https://web.archive.org/web/20220128185207/https://lovinlisboa.com/)** (Archived by Wayback Machine)<br>
 ➡️ **[Inspiring Future](https://inspiring.future.pt/)**<br>
 ➡️ **[Unlimited Future](https://unlimited.future.pt/)**<br>
-➡️ **[Unlimited Vision](https://unlimitedvision.pt/)**<br>
+➡️ **[Unlimited Vision](https://arquivo.pt/wayback/20200310215915/https://www.unlimitedvision.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Indie Campers](https://indiecampers.com/)**<br>
 
 ## 🏅 Professional Certifications
