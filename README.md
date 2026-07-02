@@ -48,4 +48,4 @@
 
 ## 💎 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioduarte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Cláudio's GitHub stats](https://github-stats-extended.vercel.app/api?username=claudioduarte)](https://github.com/stats-organization/github-stats-extended)
