@@ -18,7 +18,7 @@
 ## 💻 Projects
 
 ➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
-➡️ **[SGA 2.0 - o todo académico](https://senhas.claudioduarte.pt)**<br>
+➡️ **[SGA 2.0 - o todo académico](https://github.com/claudioduarte/sga-ua-tickets)**<br>
 ➡️ **[Ciclo de Concertos de Coimbra](https://arquivo.pt/wayback/20220520012137/https://www.cicloconcertoscoimbra.com/)** (Archived by Arquivo.pt)<br>
 ➡️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
 ➡️ **[A Bolachinha](https://web.archive.org/web/20240613235946/https://bolachinha.adavcoimbra.pt/)** (Archived by Wayback Machine)<br>
