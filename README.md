@@ -7,40 +7,36 @@
 ## 🛠 Tech Stack
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=for-the-badge)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 
 ## 💻 Projects
 
-➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
 ➡️ **[SGA 2.0 - o todo académico](https://github.com/claudioduarte/sga-ua-tickets)**<br>
-➡️ **[Ciclo de Concertos de Coimbra](https://arquivo.pt/wayback/20220520012137/https://www.cicloconcertoscoimbra.com/)** (Archived by Arquivo.pt)<br>
+➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
 ➡️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
+➡️ **[Deploy Your Future](https://deploy.future.pt/)**<br>
+➡️ **[Inspiring Career Camp](https://careercamp.pt/)**<br>
+➡️ **[Ciclo de Concertos de Coimbra](https://arquivo.pt/wayback/20220520012137/https://www.cicloconcertoscoimbra.com/)** (Archived by Arquivo.pt)<br>
 ➡️ **[A Bolachinha](https://web.archive.org/web/20240613235946/https://bolachinha.adavcoimbra.pt/)** (Archived by Wayback Machine)<br>
 ➡️ **[Clínica VOMAP](https://arquivo.pt/wayback/20220413222324/https://clinicavomap.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Vértices](https://arquivo.pt/wayback/20230123003558/https://vertices.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[XX Simpósio de Botânica Criptogâmica](https://arquivo.pt/wayback/20210925131410/https://criptogamia.up.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Somos NTC](https://arquivo.pt/wayback/20211107041349/https://somosntc.wordpress.com/)** (Archived by Arquivo.pt)<br>
-➡️ **[Deploy Your Future](https://deploy.future.pt/)**<br>
-➡️ **[Inspiring Career Camp](https://careercamp.pt/)**<br>
 ➡️ **[Unlimited Vision](https://arquivo.pt/wayback/20200310215915/https://www.unlimitedvision.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Portugal, Pois!](https://arquivo.pt/wayback/20200310215915/https://www.portugalpois.pt/)** (Archived by Arquivo.pt)
 
 ## 🤝 Contributions
 
-➡️ **[iFeed](https://ifeed.pt)**<br>
-➡️ **Updated**<br>
-➡️ **[DroidReader](https://droidreader.pt/)**<br>
-➡️ **[Lovin Lisboa](https://web.archive.org/web/20220128185207/https://lovinlisboa.com/)** (Archived by Wayback Machine)<br>
+➡️ **[CIRBI](https://cirbi.advarracloud.com/cirbi/)**<br>
+➡️ **[Indie Campers](https://indiecampers.com/)**<br>
 ➡️ **[Inspiring Future](https://inspiring.future.pt/)**<br>
 ➡️ **[Unlimited Future](https://unlimited.future.pt/)**<br>
+➡️ **[iFeed](https://ifeed.pt)**<br>
+➡️ **[DroidReader](https://droidreader.pt/)**<br>
+➡️ **[Lovin Lisboa](https://web.archive.org/web/20220128185207/https://lovinlisboa.com/)** (Archived by Wayback Machine)<br>
 ➡️ **[Unlimited Vision](https://arquivo.pt/wayback/20200310215915/https://www.unlimitedvision.pt/)** (Archived by Arquivo.pt)<br>
-➡️ **[Indie Campers](https://indiecampers.com/)**<br>
+➡️ **Updated**<br>
 
 ## 🏅 Certifications
 
