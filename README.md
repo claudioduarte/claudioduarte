@@ -12,6 +12,7 @@
 
 ## 💻 Projects
 
+➡️ **[Covilhã Mobilidade Notices](https://github.com/claudioduarte/covilha-mobilidade-notices)**<br>
 ➡️ **[SGA 2.0 - o todo académico](https://github.com/claudioduarte/sga-ua-tickets)**<br>
 ➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
 ➡️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
