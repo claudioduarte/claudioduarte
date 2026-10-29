@@ -14,7 +14,7 @@
 
 ➡️ **[Covilhã Mobilidade Notices](https://github.com/claudioduarte/covilha-mobilidade-notices)**<br>
 ➡️ **[SGA 2.0 - o todo académico](https://github.com/claudioduarte/sga-ua-tickets)**<br>
-➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
+➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra (private repo)**<br>
 ➡️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
 ➡️ **[Deploy Your Future](https://deploy.future.pt/)**<br>
 ➡️ **[Inspiring Career Camp](https://arquivo.pt/wayback/20170801124615/http://careercamp.pt/)** (Archived by Arquivo.pt)<br>
