@@ -17,7 +17,7 @@
 ➡️ **Gabinete de Apoio ao Emprego - ADAV Coimbra**<br>
 ➡️ **[ADAV Coimbra](https://adavcoimbra.pt/)**<br>
 ➡️ **[Deploy Your Future](https://deploy.future.pt/)**<br>
-➡️ **[Inspiring Career Camp](https://careercamp.pt/)**<br>
+➡️ **[Inspiring Career Camp](https://arquivo.pt/wayback/20170801124615/http://careercamp.pt/)** (Archived by Arquivo.pt)<br>
 ➡️ **[Ciclo de Concertos de Coimbra](https://arquivo.pt/wayback/20220520012137/https://www.cicloconcertoscoimbra.com/)** (Archived by Arquivo.pt)<br>
 ➡️ **[A Bolachinha](https://web.archive.org/web/20240613235946/https://bolachinha.adavcoimbra.pt/)** (Archived by Wayback Machine)<br>
 ➡️ **[Clínica VOMAP](https://arquivo.pt/wayback/20220413222324/https://clinicavomap.pt/)** (Archived by Arquivo.pt)<br>
